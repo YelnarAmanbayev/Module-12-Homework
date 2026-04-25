@@ -1,0 +1,14 @@
+C:\Users\yader\source\repos\it\it\bin\Debug\net10.0\it.exe
+C:\Users\yader\source\repos\it\it\bin\Debug\net10.0\it.deps.json
+C:\Users\yader\source\repos\it\it\bin\Debug\net10.0\it.runtimeconfig.json
+C:\Users\yader\source\repos\it\it\bin\Debug\net10.0\it.dll
+C:\Users\yader\source\repos\it\it\bin\Debug\net10.0\it.pdb
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.AssemblyInfoInputs.cache
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.AssemblyInfo.cs
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.csproj.CoreCompileInputs.cache
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.dll
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\refint\it.dll
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.pdb
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\it.genruntimeconfig.cache
+C:\Users\yader\source\repos\it\it\obj\Debug\net10.0\ref\it.dll
