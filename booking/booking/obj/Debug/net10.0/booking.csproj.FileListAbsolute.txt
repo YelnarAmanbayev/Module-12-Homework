@@ -1,0 +1,14 @@
+C:\Users\yader\source\repos\booking\booking\bin\Debug\net10.0\booking.exe
+C:\Users\yader\source\repos\booking\booking\bin\Debug\net10.0\booking.deps.json
+C:\Users\yader\source\repos\booking\booking\bin\Debug\net10.0\booking.runtimeconfig.json
+C:\Users\yader\source\repos\booking\booking\bin\Debug\net10.0\booking.dll
+C:\Users\yader\source\repos\booking\booking\bin\Debug\net10.0\booking.pdb
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.AssemblyInfoInputs.cache
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.AssemblyInfo.cs
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.csproj.CoreCompileInputs.cache
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.dll
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\refint\booking.dll
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.pdb
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\booking.genruntimeconfig.cache
+C:\Users\yader\source\repos\booking\booking\obj\Debug\net10.0\ref\booking.dll
